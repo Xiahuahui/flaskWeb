@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e1e1ed32-fa1b-490e-ae66-420b7a8061f4" name="flask" url="http://10.77.40.66">
+        <fileTransfer host="10.77.40.66" port="5102" rootFolder="/home/xhh" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="5102" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
